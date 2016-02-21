@@ -109,6 +109,10 @@ class InputfieldPageName extends InputfieldName implements ConfigurableModule {
 		'ł' => 'l',
 		'ż' => 'z',
 		'ź' => 'z',
+		'ı' => 'i',
+		'ğ' => 'g',
+		'İ' => 'i',
+		'ş' => 's',
 		);
 
 	/**
